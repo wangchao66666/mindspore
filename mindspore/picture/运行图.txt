@@ -1,0 +1,153 @@
+Start Training Loop ...
+--------------------
+Epoch: [  1/ 50], Average Train Loss: [1.309], Accuracy: [0.756]
+epoch time: 307369.014 ms, per step time: 1492.083 ms
+--------------------
+Epoch: [  2/ 50], Average Train Loss: [0.955], Accuracy: [0.824]
+epoch time: 309860.104 ms, per step time: 1504.175 ms
+--------------------
+Epoch: [  3/ 50], Average Train Loss: [0.789], Accuracy: [0.832]
+epoch time: 312418.394 ms, per step time: 1516.594 ms
+--------------------
+Epoch: [  4/ 50], Average Train Loss: [0.701], Accuracy: [0.832]
+epoch time: 315374.755 ms, per step time: 1530.945 ms
+--------------------
+Epoch: [  5/ 50], Average Train Loss: [0.641], Accuracy: [0.855]
+epoch time: 311714.004 ms, per step time: 1513.175 ms
+--------------------
+Epoch: [  6/ 50], Average Train Loss: [0.594], Accuracy: [0.849]
+epoch time: 311578.032 ms, per step time: 1512.515 ms
+--------------------
+Epoch: [  7/ 50], Average Train Loss: [0.565], Accuracy: [0.849]
+epoch time: 312025.694 ms, per step time: 1514.688 ms
+--------------------
+Epoch: [  8/ 50], Average Train Loss: [0.534], Accuracy: [0.864]
+epoch time: 316279.118 ms, per step time: 1535.336 ms
+--------------------
+Epoch: [  9/ 50], Average Train Loss: [0.517], Accuracy: [0.864]
+epoch time: 320506.557 ms, per step time: 1555.857 ms
+--------------------
+Epoch: [ 10/ 50], Average Train Loss: [0.497], Accuracy: [0.864]
+epoch time: 320089.256 ms, per step time: 1553.831 ms
+--------------------
+Epoch: [ 11/ 50], Average Train Loss: [0.483], Accuracy: [0.869]
+epoch time: 316960.306 ms, per step time: 1538.642 ms
+--------------------
+Epoch: [ 12/ 50], Average Train Loss: [0.473], Accuracy: [0.866]
+epoch time: 317025.341 ms, per step time: 1538.958 ms
+--------------------
+Epoch: [ 13/ 50], Average Train Loss: [0.465], Accuracy: [0.864]
+epoch time: 318214.424 ms, per step time: 1544.730 ms
+--------------------
+Epoch: [ 14/ 50], Average Train Loss: [0.438], Accuracy: [0.875]
+epoch time: 318876.054 ms, per step time: 1547.942 ms
+--------------------
+Epoch: [ 15/ 50], Average Train Loss: [0.453], Accuracy: [0.866]
+epoch time: 315852.065 ms, per step time: 1533.262 ms
+--------------------
+Epoch: [ 16/ 50], Average Train Loss: [0.440], Accuracy: [0.858]
+epoch time: 313186.852 ms, per step time: 1520.325 ms
+--------------------
+Epoch: [ 17/ 50], Average Train Loss: [0.435], Accuracy: [0.872]
+epoch time: 313369.686 ms, per step time: 1521.212 ms
+--------------------
+Epoch: [ 18/ 50], Average Train Loss: [0.422], Accuracy: [0.872]
+epoch time: 313879.119 ms, per step time: 1523.685 ms
+--------------------
+Epoch: [ 19/ 50], Average Train Loss: [0.403], Accuracy: [0.869]
+epoch time: 320533.528 ms, per step time: 1555.988 ms
+--------------------
+Epoch: [ 20/ 50], Average Train Loss: [0.412], Accuracy: [0.866]
+epoch time: 318889.002 ms, per step time: 1548.005 ms
+--------------------
+Epoch: [ 21/ 50], Average Train Loss: [0.406], Accuracy: [0.872]
+epoch time: 318861.664 ms, per step time: 1547.872 ms
+--------------------
+Epoch: [ 22/ 50], Average Train Loss: [0.403], Accuracy: [0.875]
+epoch time: 317838.471 ms, per step time: 1542.905 ms
+--------------------
+Epoch: [ 23/ 50], Average Train Loss: [0.392], Accuracy: [0.875]
+epoch time: 319823.707 ms, per step time: 1552.542 ms
+--------------------
+Epoch: [ 24/ 50], Average Train Loss: [0.408], Accuracy: [0.869]
+epoch time: 319899.669 ms, per step time: 1552.911 ms
+--------------------
+Epoch: [ 25/ 50], Average Train Loss: [0.402], Accuracy: [0.872]
+epoch time: 318981.912 ms, per step time: 1548.456 ms
+--------------------
+Epoch: [ 26/ 50], Average Train Loss: [0.391], Accuracy: [0.872]
+epoch time: 318796.589 ms, per step time: 1547.556 ms
+--------------------
+Epoch: [ 27/ 50], Average Train Loss: [0.376], Accuracy: [0.884]
+epoch time: 317845.993 ms, per step time: 1542.942 ms
+--------------------
+Epoch: [ 28/ 50], Average Train Loss: [0.380], Accuracy: [0.875]
+epoch time: 314850.830 ms, per step time: 1528.402 ms
+--------------------
+Epoch: [ 29/ 50], Average Train Loss: [0.367], Accuracy: [0.869]
+epoch time: 319054.877 ms, per step time: 1548.810 ms
+--------------------
+Epoch: [ 30/ 50], Average Train Loss: [0.383], Accuracy: [0.875]
+epoch time: 314402.068 ms, per step time: 1526.224 ms
+--------------------
+Epoch: [ 31/ 50], Average Train Loss: [0.375], Accuracy: [0.872]
+epoch time: 315084.267 ms, per step time: 1529.535 ms
+--------------------
+Epoch: [ 32/ 50], Average Train Loss: [0.368], Accuracy: [0.884]
+epoch time: 314253.197 ms, per step time: 1525.501 ms
+--------------------
+Epoch: [ 33/ 50], Average Train Loss: [0.359], Accuracy: [0.872]
+epoch time: 314401.326 ms, per step time: 1526.220 ms
+--------------------
+Epoch: [ 34/ 50], Average Train Loss: [0.349], Accuracy: [0.869]
+epoch time: 315107.872 ms, per step time: 1529.650 ms
+--------------------
+Epoch: [ 35/ 50], Average Train Loss: [0.361], Accuracy: [0.881]
+epoch time: 324184.597 ms, per step time: 1573.712 ms
+--------------------
+Epoch: [ 36/ 50], Average Train Loss: [0.356], Accuracy: [0.884]
+epoch time: 319626.015 ms, per step time: 1551.583 ms
+--------------------
+Epoch: [ 37/ 50], Average Train Loss: [0.359], Accuracy: [0.875]
+epoch time: 319266.176 ms, per step time: 1549.836 ms
+--------------------
+Epoch: [ 38/ 50], Average Train Loss: [0.363], Accuracy: [0.864]
+epoch time: 321955.075 ms, per step time: 1562.889 ms
+--------------------
+Epoch: [ 39/ 50], Average Train Loss: [0.354], Accuracy: [0.881]
+epoch time: 316209.515 ms, per step time: 1534.998 ms
+--------------------
+Epoch: [ 40/ 50], Average Train Loss: [0.339], Accuracy: [0.869]
+epoch time: 321544.561 ms, per step time: 1560.896 ms
+--------------------
+Epoch: [ 41/ 50], Average Train Loss: [0.351], Accuracy: [0.875]
+epoch time: 319815.555 ms, per step time: 1552.503 ms
+--------------------
+Epoch: [ 42/ 50], Average Train Loss: [0.353], Accuracy: [0.869]
+epoch time: 319990.704 ms, per step time: 1553.353 ms
+--------------------
+Epoch: [ 43/ 50], Average Train Loss: [0.350], Accuracy: [0.872]
+epoch time: 319686.711 ms, per step time: 1551.877 ms
+--------------------
+Epoch: [ 44/ 50], Average Train Loss: [0.347], Accuracy: [0.884]
+epoch time: 320591.667 ms, per step time: 1556.270 ms
+--------------------
+Epoch: [ 45/ 50], Average Train Loss: [0.339], Accuracy: [0.884]
+epoch time: 320689.235 ms, per step time: 1556.744 ms
+--------------------
+Epoch: [ 46/ 50], Average Train Loss: [0.338], Accuracy: [0.884]
+epoch time: 320861.761 ms, per step time: 1557.581 ms
+--------------------
+Epoch: [ 47/ 50], Average Train Loss: [0.332], Accuracy: [0.884]
+epoch time: 320161.682 ms, per step time: 1554.183 ms
+--------------------
+Epoch: [ 48/ 50], Average Train Loss: [0.328], Accuracy: [0.878]
+epoch time: 333170.142 ms, per step time: 1617.331 ms
+--------------------
+Epoch: [ 49/ 50], Average Train Loss: [0.339], Accuracy: [0.878]
+epoch time: 320363.991 ms, per step time: 1555.165 ms
+--------------------
+Epoch: [ 50/ 50], Average Train Loss: [0.335], Accuracy: [0.884]
+epoch time: 319990.646 ms, per step time: 1553.353 ms
+================================================================================
+End of validation the best Accuracy is:  0.884, save the best ckpt file in ./resnet50-best.ckpt

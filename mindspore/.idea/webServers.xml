@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="22de313a-5c9b-4e54-a641-9edd0ca9e51b" name="Rewrite">
+        <fileTransfer accessType="SFTP" host="8.130.129.188" port="22" sshConfigId="f9d5f1a8-d33b-4da3-b2df-4675a5a2bbbb" sshConfig="root@8.130.129.188:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
